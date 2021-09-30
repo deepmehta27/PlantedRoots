@@ -1,0 +1,11 @@
+.container {
+  width: 70%;
+  margin-top: 80px;
+  margin-bottom: 50x;
+}
+
+#quote {
+  margin-top: 20px;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+}
